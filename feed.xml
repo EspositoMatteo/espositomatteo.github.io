@@ -3,10 +3,32 @@
     <title>Fondamenti di Programamzione Automatica e Robotica</title>
     <link href="https://espositomatteo.github.io/feed.xml" rel="self" />
     <link href="https://espositomatteo.github.io" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2018-10-13T16:29:00+02:00</updated>
     <author>
         <name>Matteo Esposito</name>
     </author>
     <id>https://espositomatteo.github.io</id>
 
+    <entry>
+        <title>Benvenuti!!!!</title>
+        <author>
+            <name>Matteo Esposito</name>
+        </author>
+        <link href="https://espositomatteo.github.io/test/"/>
+        <id>https://espositomatteo.github.io/test/</id>
+
+        <updated>2018-10-13T16:28:55+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://espositomatteo.github.io/media/posts/2/" alt="" />
+                    In questo piccolo spazio nella rete potrete troavre tutte le informazioni, notifiche ed eventualmente il materiale delle lezioni utile per ripassare o per cimentarsi in challenge interessanti
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://espositomatteo.github.io/media/posts/2/" alt="" />
+                In questo piccolo spazio nella rete potrete troavre tutte le informazioni, notifiche ed eventualmente il materiale delle lezioni utile per ripassare o per cimentarsi in challenge interessanti
+            ]]>
+        </content>
+    </entry>
 </feed>

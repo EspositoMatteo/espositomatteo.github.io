@@ -9,5 +9,20 @@
         "name": "Matteo Esposito"
     },
     "items": [
+        {
+            "id": "https://espositomatteo.github.io/test/",
+            "url": "https://espositomatteo.github.io/test/",
+            "title": "Benvenuti!!!!",
+            "summary": "In questo piccolo spazio nella rete potrete troavre tutte le informazioni, notifiche ed eventualmente il materiale delle lezioni utile per ripassare o per cimentarsi in challenge interessanti",
+            "content_html": "In questo piccolo spazio nella rete potrete troavre tutte le informazioni, notifiche ed eventualmente il materiale delle lezioni utile per ripassare o per cimentarsi in challenge interessanti",
+            "image": "https://espositomatteo.github.io/media/posts/2/",
+            "author": {
+                "name": "Matteo Esposito"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-10-13T16:25:46+02:00",
+            "date_modified": "2018-10-13T16:28:55+02:00"
+        }
     ]
 }
