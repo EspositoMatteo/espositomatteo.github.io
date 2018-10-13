@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Fondamenti di Programamzione Automatica e Robotica",
+    "description": "",
+    "home_page_url": "https://espositomatteo.github.io",
+    "feed_url": "https://espositomatteo.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Matteo Esposito"
+    },
+    "items": [
+    ]
+}
