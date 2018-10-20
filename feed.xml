@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Fondamenti di Programamzione Automatica e Robotica</title>
+    <title>Fondamenti di Programmazione Automatica e Robotica</title>
     <link href="https://espositomatteo.github.io/feed.xml" rel="self" />
     <link href="https://espositomatteo.github.io" />
-    <updated>2018-10-20T10:33:24+02:00</updated>
+    <updated>2018-10-20T10:35:09+02:00</updated>
     <author>
         <name>Matteo Esposito</name>
     </author>
