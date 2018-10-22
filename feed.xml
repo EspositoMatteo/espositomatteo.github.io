@@ -3,12 +3,34 @@
     <title>Fondamenti di Programmazione Automatica e Robotica</title>
     <link href="https://espositomatteo.github.io/feed.xml" rel="self" />
     <link href="https://espositomatteo.github.io" />
-    <updated>2018-10-21T23:54:44+02:00</updated>
+    <updated>2018-10-22T22:33:12+02:00</updated>
     <author>
         <name>Matteo Esposito</name>
     </author>
     <id>https://espositomatteo.github.io</id>
 
+    <entry>
+        <title>Comunicazione sopensione dell&#x27;attività del corso per il giorno 02-11-2018</title>
+        <author>
+            <name>Matteo Esposito</name>
+        </author>
+        <link href="https://espositomatteo.github.io/comunicazione-sopensione-dellattivita-del-corso-per-il-giorno-02-11-2018/"/>
+        <id>https://espositomatteo.github.io/comunicazione-sopensione-dellattivita-del-corso-per-il-giorno-02-11-2018/</id>
+
+        <updated>2018-10-22T22:32:57+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://espositomatteo.github.io/media/posts/7/" alt="" />
+                    Carissimi studenti, si comunica che il giorno venerdì 2 novembre in osservanza del "ponte dei morti" non si terrà alcuna lezione, ci rivedremo il 9 novembre in Laboratorio Informatico.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://espositomatteo.github.io/media/posts/7/" alt="" />
+                <p>Carissimi studenti, si comunica che il giorno venerdì 2 novembre in osservanza del "<em>ponte dei morti</em>" non si terrà alcuna lezione, ci rivedremo il 9 novembre in Laboratorio Informatico.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Comunicazione Lezione del 26-10-2018</title>
         <author>
