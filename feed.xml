@@ -3,12 +3,37 @@
     <title>Fondamenti di Programmazione Automatica e Robotica</title>
     <link href="https://espositomatteo.github.io/feed.xml" rel="self" />
     <link href="https://espositomatteo.github.io" />
-    <updated>2018-11-08T22:39:31+01:00</updated>
+    <updated>2018-11-08T22:43:40+01:00</updated>
     <author>
         <name>Matteo Esposito</name>
     </author>
     <id>https://espositomatteo.github.io</id>
 
+    <entry>
+        <title>Lezione del 09 Novembre 2018</title>
+        <author>
+            <name>Matteo Esposito</name>
+        </author>
+        <link href="https://espositomatteo.github.io/lezione-del-09-novembre-2018/"/>
+        <id>https://espositomatteo.github.io/lezione-del-09-novembre-2018/</id>
+
+        <updated>2018-11-08T22:43:34+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://espositomatteo.github.io/media/posts/8/" alt="" />
+                    Carissimi Studenti, volevo ricordare a tutti che la lezione del 9 si svolgerà regolarmente in aula LIM vi invito a partecipare tutti. Termineremo la discussione sui tipi di dato ed introdurremo l'ambeinte di sviluppo Jess! Quindi non mancate! :-D 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://espositomatteo.github.io/media/posts/8/" alt="" />
+                <p>Carissimi Studenti,</p>
+<p>volevo ricordare a tutti che la lezione del 9 si svolgerà regolarmente in aula LIM vi invito a partecipare tutti. Termineremo la discussione sui tipi di dato ed introdurremo l'ambeinte di sviluppo Jess! </p>
+<p>Quindi non mancate! :-D</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Comunicazione sopensione dell&#x27;attività del corso per il giorno 02-11-2018</title>
         <author>
